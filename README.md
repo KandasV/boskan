@@ -1,0 +1,2 @@
+# boskan
+bilgi sistemi
